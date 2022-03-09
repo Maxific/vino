@@ -14,12 +14,13 @@ a{
 body{
     overflow-x: hidden;
     font-family: 'Montserrat', sans-serif;
+    min-width: 1920px;
 }
 
         /* Header */
 
 .container{
-    max-width: 1920px;
+    width: 1920px;
     height: 900px;
     min-height: 100vh;
 }
